@@ -8,11 +8,12 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("HtmlTable")]
 [assembly: AssemblyDescription("HtmlTable")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("LSM")]
+[assembly: AssemblyCompany("Leonardo Silvio de Moura")]
 [assembly: AssemblyProduct("HtmlTable")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
-[assembly: AssemblyTrademark("LSM")]
+[assembly: AssemblyTrademark("Leonardo Silvio de Moura")]
 [assembly: AssemblyCulture("")]
+
 
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 
